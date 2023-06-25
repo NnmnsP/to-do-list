@@ -38,7 +38,7 @@
 }
 
 *{
-  font-family: 'Courier New', Courier, monospace;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: large;
   font-weight: 550;
   color:rgba(49, 49, 49, 0.808);
@@ -54,25 +54,25 @@ html {
 }
 
 body{
-  background-color: rgba(126, 126, 103, 0.658);
+  background-color: #f9edbc;
   display: table-cell;
   vertical-align: middle;
 }
 
 button{
-  background-color: rgba(0, 0, 0, 0.171);
-  color: aliceblue;
-  margin: 2px;
-  padding: 2px;
-  border: 3px solid rgba(0, 0, 0, 0.342);
+  background-color: #407252;
+  color: #F2F2F2;
+  margin: 4px;
+  padding: 4px;
+  border: 1px solid rgba(0, 0, 0, 0.342);
 }
 
 button:hover{
-  background-color: rgba(255, 255, 255, 0.638);
+  background-color: #73A585;
 }
 
 button:active{
-  background-color: aliceblue;
+  background-color: #A6D8B8;
 }
 
 .inNome{
